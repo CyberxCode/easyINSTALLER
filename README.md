@@ -13,8 +13,9 @@ Font manager , Conky
 - An operating system (Linux)
 
 # Installation
-- sudo su
-
+- sudo -s
+- get clone https://github.com/CyberxCode/easyINSTALLER.git && cd easyINSTALLER
+- python easyINSTALLER.py
 
 # Contact
 - Youtube : https://www.youtube.com/channel/UCU-mFCrHGcC54Kmg5c8Nr4g?view_as=subscriber
